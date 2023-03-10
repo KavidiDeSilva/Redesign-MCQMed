@@ -1,6 +1,6 @@
 # MCQMed style guide
 
-redesignmcqmed.github.io
+https://kavididesilva.github.io/redesignmcqmed.github.io/
 
 This is a CSS file used in a web application. It contains various styles used in the application to improve the look and feel of the interface. Some of the notable styles include font sizes, font families, button styles, and responsive design styles.
 
